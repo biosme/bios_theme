@@ -1,10 +1,10 @@
-## Business Theme V14
+## Business Theme v15
 
 Business Theme for ERPNext / Frappe
 
 ### To install this theme,
 
-bench get-app https://github.com/Midocean-Technologies/business_theme_v14.git
+bench get-app --branch version-15 https://github.com/biosme/bios_theme.git
 
 bench --site (sitename) install-app business_theme_v14
 
@@ -22,7 +22,3 @@ bench --site (sitename) uninstall-app business_theme_v14
 #### License
 
 MIT
-
-
-#### Contact now! for end to end Frappe/ERPNext, Odoo & Flutter Development
-[sagar@midocean.tech]
