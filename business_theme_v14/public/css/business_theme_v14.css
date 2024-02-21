@@ -132,7 +132,7 @@ input:focus{
 
 
 /* Global CSS */
-
+body{font-family: "Segoe UI", Arial, sans-serif !important; }
 /* Colours */
 :root {
     --background-color: #36414c;
